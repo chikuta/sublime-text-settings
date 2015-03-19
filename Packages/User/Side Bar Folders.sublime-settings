@@ -1,0 +1,45 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\tmp"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\99_work\\rospeex_package"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\99_work\\panda"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\99_work\\dnn"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\99_tmp"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\10_記録\\01_議事録"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\00_文書\\93_ToDo"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\00_文書\\92_作業メモ"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\work\\p1597\\00_文書\\90_日報"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\chiku\\Desktop\\lcore.tar\\lcore\\lcore_hiro"
+		}
+	]
+}

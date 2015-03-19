@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Find++",
+		"Git",
+		"GitGutter",
+		"IMESupport",
+		"INI",
+		"InsertDate",
+		"Local History",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownTOC",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"orgmode",
+		"Package Control",
+		"Pandoc",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"Sublime Files",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SuperSelect",
+		"Table Editor",
+		"Terminal",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

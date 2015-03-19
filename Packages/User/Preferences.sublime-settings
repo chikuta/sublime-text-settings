@@ -1,0 +1,25 @@
+{
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "MigMix 1M",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_selection": true,
+	"match_tags": true,
+	"show_tab_close_buttons": true,
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": true,
+	"trim_trailing_white_space_on_save": true
+}
