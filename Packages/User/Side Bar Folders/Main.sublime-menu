@@ -28,6 +28,8 @@
 					{ "command": "side_bar_folders_load", "args":{ "index": 7, "append": true }},
 					{ "command": "side_bar_folders_load", "args":{ "index": 8, "append": true }},
 					{ "command": "side_bar_folders_load", "args":{ "index": 9, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 10, "append": true }},
+					{ "command": "side_bar_folders_load", "args":{ "index": 11, "append": true }},
 				]
 			},
 			// Folder history goes here
@@ -42,6 +44,8 @@
 			{ "command": "side_bar_folders_load", "args":{ "index": 7 }},
 			{ "command": "side_bar_folders_load", "args":{ "index": 8 }},
 			{ "command": "side_bar_folders_load", "args":{ "index": 9 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 10 }},
+			{ "command": "side_bar_folders_load", "args":{ "index": 11 }},
 			{ "caption": "-" , "id": "options" },
 			{ "caption": "-" , "id": "end" }
 		]
