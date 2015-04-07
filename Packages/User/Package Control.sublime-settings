@@ -29,11 +29,16 @@
 		"SideBarFolders",
 		"Sublime Files",
 		"SublimeCodeIntel",
+		"SublimeMozcInput",
 		"SublimeREPL",
 		"SuperSelect",
 		"Table Editor",
 		"Terminal",
 		"Theme - Soda",
 		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/yasuyuky/SublimeMozcInput"
 	]
 }

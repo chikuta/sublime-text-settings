@@ -1,10 +1,10 @@
 {
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "MigMix 1M",
+	"font_face": "Ricty",
 	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,

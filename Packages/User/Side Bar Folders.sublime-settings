@@ -46,6 +46,9 @@
 		{
 			"follow_symlinks": true,
 			"path": "C:\\Users\\chiku\\Desktop\\lcore.tar\\lcore\\lcore_hiro"
+		},
+		{
+			"path": "/home/rospeex/catkin_ws/src/rospeex"
 		}
 	]
 }
