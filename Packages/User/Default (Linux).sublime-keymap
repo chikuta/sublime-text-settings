@@ -1,0 +1,3 @@
+[
+    {"keys": ["ctrl+space"], "command": "toggle_mozc"}
+]
